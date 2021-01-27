@@ -1,12 +1,15 @@
 import React from "react";
 import { Navbar, Main, Footer } from "./Components";
+import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Main />
-      <Footer />
+      <Router>
+        <Navbar />
+        <Main />
+        <Footer />
+      </Router>
     </>
   );
 }
