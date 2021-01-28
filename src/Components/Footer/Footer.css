@@ -1,0 +1,27 @@
+footer {
+  color: white;
+}
+.container {
+  width: 100%;
+  padding: 15px 70px;
+}
+.bg-darks {
+  background-color: black;
+  height: 40vh;
+}
+.pt-8 {
+  padding-top: 80px;
+}
+.footer-image {
+  float: left;
+  clear: left;
+}
+
+.text-footer {
+  float: right;
+}
+.text-footer > i {
+  font-size: 2rem;
+  padding: 10px;
+  cursor: pointer;
+}
