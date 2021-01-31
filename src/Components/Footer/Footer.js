@@ -50,6 +50,7 @@ const Footer = () => {
         </div>
         <div className="heading-bottom-right">
           <p>Â© 2021 Spotify AB</p>
+          <p>© 2021 Spotify AB</p>
         </div>
       </div>
     </footer>

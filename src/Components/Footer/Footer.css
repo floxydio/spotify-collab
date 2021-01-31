@@ -130,6 +130,7 @@ i:hover {
 .heading-bottom-right {
   flex-direction: column;
 }
+<<<<<<< HEAD
 
 @media screen and (max-width: 600px) {
   .bg-darks {
@@ -148,3 +149,5 @@ i:hover {
     margin-left: auto;
   }
 }
+=======
+>>>>>>> f233c58db10cef1c4d7377b006a13846aabb8b39
